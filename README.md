@@ -1,4 +1,4 @@
-# Basic-Banking-System
+# Banking-System
 A banking system for the maintaining and handling the transactions over the web application.
 
   The teckstacks used in the development of the project is:
